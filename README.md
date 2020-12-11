@@ -9,3 +9,18 @@ npm install
 
 npm start
 
+# Post
+
+![Post](/screenshots/post.png?raw=true "Post")
+
+# Put
+
+![Put](/screenshots/put.png?raw=true "Put")
+
+# Patch
+
+![Patch](/screenshots/patch.png?raw=true "Patch")
+
+# Get
+
+![Get](/screenshots/get.png?raw=true "Get")
